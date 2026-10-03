@@ -8,7 +8,7 @@ const About = () => {
         <span className="text-primary font-bold uppercase tracking-[0.3em] text-[10px] mb-6 block">Our Story</span>
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight uppercase mb-8">Performance Driven by Plants</h1>
         <p className="text-xl text-gray-400 font-light max-w-2xl mx-auto leading-relaxed">
-         Shashwat Pure Plant was born from a simple belief: that high-performance nutrition should be clean, sustainable, and powerful. We use the highest quality ingredients to ensure you get the results you deserve.
+         Pure Plant was born from a simple belief: that high-performance nutrition should be clean, sustainable, and powerful. We use the highest quality ingredients to ensure you get the results you deserve.
         </p>
       </div>
 
